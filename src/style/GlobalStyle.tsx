@@ -9,6 +9,7 @@ const GlobalStyle = createGlobalStyle`
 		'Microsoft NeoGothic',  		   
 		'Droid sans', sans-serif; 
     line-height: 1.5;
+    background: #121212;
   }
 `
 
